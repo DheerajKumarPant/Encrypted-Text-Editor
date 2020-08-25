@@ -6,5 +6,5 @@ A fun project, with a very simple idea i.e. encrypt text. After typing, there wi
 ### MORE DETAILS : 
 A Key is entered by user then it converted into 4 keys. These 4 keys are used in encryption. "KeyGenerator" class is used to create keys. To encrypt first all text is read character by character and xored with keys. "Encryption and Decryption" class is used. There is a round 2 to encrypt text. In round 2 AES algorithm is used. There is a predefined function in JAVA to do so. After that encrypted text is saved in a file with extension '.vc'. Headers and Footers are used to recognize an encrypted file. Encrypted text file is read only. If file is modified then it can not be decrypted.
 ### NOTE:
-Above project contains .jar file which should run in your machine having java installed. Further you can run the code through command prompt. The main package name is "texteditor" and main class is "TextEditor"
+Above project contains .jar file which should run in your machine having java installed. Further you can run the code through command prompt/terminal. The main package name is "texteditor" and main class is "TextEditor"
 
