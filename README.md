@@ -8,6 +8,6 @@ A Key is entered by user then it converted into 4 keys. These 4 keys are used in
 #### NOTE:
 Above project contains .jar file which should run in your machine having java installed. Further you can run the code through command prompt/terminal. The main package name is "texteditor" and main class is "TextEditor"
 
-### 2. Classification using **Transfer Learning** Convolutional Neural Network 
+### 2. Classification with **Transfer Learning** in Keras 
 A project where i got decent accuracy in very few epochs using transfer learning. I have extended the idea of coursera guided project **Classification with Transfer Learning in Keras** to implement the same classification model using relatively less amount of data-set, using famous inception network. I have done image augmentation and drop backs to manage high accuracy with regularization effect. The link of course certificate is given below:
 **Certificate** : https://www.coursera.org/account/accomplishments/certificate/L82ZX2WT8R6X
